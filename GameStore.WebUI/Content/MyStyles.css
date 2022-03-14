@@ -1,0 +1,12 @@
+.navbar {
+	background:#0070d4;
+} 
+
+.hidden-xs {
+	color:white;
+}
+
+.hidden-xs:hover {
+	color:red;
+	transition: all 1s;
+}
